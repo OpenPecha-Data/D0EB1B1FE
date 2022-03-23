@@ -1,0 +1,11 @@
+id: 13c3d03740f9413b9a40b24398cbeb39
+annotation_type: index
+revision: '00001'
+annotations:
+  bab95b91ac584380966ce637b3dd3c5f:
+    parts: {}
+    span:
+    - vol: 114
+      start: 0
+      end: 20678
+    work_id: Q5814
